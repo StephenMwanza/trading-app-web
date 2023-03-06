@@ -1,0 +1,4 @@
+name: data-analytics
+dependencies:
+  - python
+  - click>=7.1
