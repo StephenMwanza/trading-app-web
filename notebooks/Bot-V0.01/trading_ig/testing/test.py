@@ -1,0 +1,8 @@
+    ('bid', 'Open'):'bid-open',
+    ('bid', 'High'): 'bid-high',
+    ('bid', 'Low'): 'bid-low',
+    ('bid', 'Close'): 'bid-close',
+    ('ask', 'Open'): 'ask-open',
+    ('ask', 'High'): 'ask-high',
+    ('ask', 'Low'): 'ask-low',
+    ('ask', 'Close'): 'ask-close',

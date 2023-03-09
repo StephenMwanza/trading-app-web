@@ -139,6 +139,7 @@ mock @ file:///tmp/build/80754af9/mock_1607622725907/work
 mpmath==1.2.1
 msgpack @ file:///opt/conda/conda-bld/msgpack-python_1652362654957/work
 multipledispatch @ file:///root/miniconda3/conda-bld/multipledispatch_1615433583011/work
+munch==2.5.0
 munkres==1.1.4
 mypy-extensions==0.4.3
 navigator-updater==0.3.0
@@ -189,6 +190,7 @@ pyasn1-modules==0.2.8
 pycodestyle @ file:///tmp/build/80754af9/pycodestyle_1636635402688/work
 pycosat==0.6.3
 pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pycryptodome==3.17
 pyct @ file:///tmp/abs_82be041b-5d94-4b89-b8a1-e0a685331f98asmo2ua9/croots/recipe/pyct_1658500307119/work
 pycurl==7.45.1
 PyDispatcher==2.0.5
@@ -227,6 +229,7 @@ QtPy @ file:///opt/conda/conda-bld/qtpy_1662014816466/work
 queuelib==1.5.0
 regex @ file:///tmp/abs_5a8d0a5d-9463-45ab-b1cd-da2a3b84a853h726tvjk/croots/recipe/regex_1658257180125/work
 requests @ file:///opt/conda/conda-bld/requests_1657734625047/work
+requests-cache==0.5.2
 requests-file @ file:///Users/ktietz/demo/mc3/conda-bld/requests-file_1629455781986/work
 rope @ file:///opt/conda/conda-bld/rope_1643788605236/work
 Rtree @ file:///opt/conda/conda-bld/rtree_1629837496246/work
@@ -282,6 +285,7 @@ tomlkit @ file:///tmp/abs_299573rcj5/croots/recipe/tomlkit_1658946883675/work
 toolz @ file:///tmp/build/80754af9/toolz_1636545406491/work
 tornado @ file:///root/miniconda3/conda-bld/tornado_1615413016277/work
 tqdm @ file:///opt/conda/conda-bld/tqdm_1664392684319/work
+trading-ig==0.0.20
 traitlets @ file:///tmp/build/80754af9/traitlets_1636710298902/work
 Twisted @ file:///tmp/abs_fdywuhvw4n/croots/recipe/twisted_1659592759870/work
 typing_extensions @ file:///tmp/abs_49n9i1_85l/croots/recipe/typing_extensions_1659638822001/work
